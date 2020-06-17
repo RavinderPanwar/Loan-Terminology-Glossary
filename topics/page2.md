@@ -1,6 +1,6 @@
 ---
 layout: default
-title: page2
+title: B
 ---
 
 # Mr. Hyde
