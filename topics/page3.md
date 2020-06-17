@@ -1,6 +1,6 @@
 ---
 layout: default
-title: page3
+title: C
 ---
 
 # Hugo and the Great Gatsby
